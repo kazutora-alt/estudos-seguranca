@@ -1,9 +1,9 @@
 # Estudos de Segurança da Informação
 
-Repositório destinado aos meus estudos em segurança da informação.
+Este repositório será usado para organizar meus estudos em:
+- Redes
+- Linux
+- Segurança da informação
+- Prática e anotações
 
-Aqui irei organizar:
-- Anotações
-- Conceitos teóricos
-- Ferramentas
-- Laboratórios práticos
+Em construção.
